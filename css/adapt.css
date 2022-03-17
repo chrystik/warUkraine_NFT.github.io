@@ -1,0 +1,619 @@
+@media (max-width: 1399.98px) {
+    .collection-section-item {
+        width: 350px;
+    }
+
+    .image-part {
+        display: flex;
+        justify-content: center;
+    }
+
+    .nft-img {
+        width: 350px;
+    }
+
+    .step {
+        width: 350px;
+    }
+
+    .steps-description {
+        width: 710px;
+    }
+
+    .addition-section-photo {
+        width: 540px;
+        height: 360px;
+    }
+    
+    .team-section-text {
+        width: 555px;
+        padding-left: 65px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .row>.navbar-items {
+        width: unset;
+    }
+
+    .navbar-section,
+    .navbar {
+        height: 60px;
+    }
+
+    .logo-img {
+        height: 40px;
+        width: auto;
+    }
+
+    .navbar-items,
+    .navbar-button {
+        display: none;
+    }
+
+    .burger-menu {
+        display: flex;
+    }
+
+    .title {
+        font-size: 36px;
+        width: 705px;
+    }
+
+    .subtitle {
+        font-size: 20px;
+        width: 470px;
+    }
+
+    .hashtag {
+        font-size: 20px;
+    }
+
+    .about-us {
+        padding-top: 100px;
+    }
+
+    .upper-part-text {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+
+    .lower-part {
+        flex-direction: column;
+    }
+
+    .lower-part-title {
+        font-size: 28px;
+        width: 100%;
+    }
+
+    .lower-part-text {
+        margin-top: 25px;
+        width: 660px;
+    }
+
+    .our-collection {
+        padding-top: 100px;
+    }
+
+    .section-title {
+        font-size: 28px;
+    }
+
+    .collection-title {
+        text-align: center;
+    }
+
+    .collection-button {
+        display: none;
+    }
+
+    .section-info {
+        justify-content: center;
+    }
+
+    .collection-text-info {
+        text-align: center;
+    }
+
+    .collection-button-lower {
+        display: flex;
+        justify-content: center;
+    }
+
+    .collection-section-item {
+        width: 270px;
+    }
+
+    .collection-item {
+        height: 250px;
+    }
+
+    .image-part {
+        height: 210px;
+    }
+
+    .nft-img {
+        width: 100%;
+    }
+
+    .collection-name-part {
+        height: 50px;
+    }
+
+    .collection-name-title {
+        font-size: 20px;
+    }
+
+    .see-full-link {
+        font-size: 16px;
+    }
+
+    .see-full-link p {
+        margin-bottom: 15px;
+    }
+
+    .see-full-link svg {
+        width: 50px;
+    }
+
+    .how-to-buy {
+        padding-top: 100px;
+    }
+
+    .step {
+        width: 48%;
+        padding-right: 40px;
+    }
+
+    .step:nth-child(2),
+    .step:nth-child(4) {
+        margin-right: unset;
+    }
+
+    /* .step:first-child img {
+        width: 80px;
+    } */
+
+    .step-description {
+        width: 100%;
+    }
+
+    .steps-description {
+        flex-direction: row;
+        width: 100%;
+        padding-left: unset;
+        justify-content: space-between;
+    }
+
+    .steps-description-text {
+        width: 425px;
+        margin-bottom: unset;
+    }
+
+    .in-addition {
+        padding-top: 100px;
+    }
+
+    .addition-list-number {
+        font-size: 36px;
+    }
+
+    .addition-list-text {
+        font-size: 20px;
+    }
+
+    .addition-list {
+        width: 800px;
+    }
+
+    .addition-list-item {
+        margin-bottom: 50px;
+    }
+
+    .addition-section-photos {
+        margin-top: 50px;
+    }
+
+    .addition-section-photo {
+        width: 48%;
+        height: 280px;
+    }
+
+    .addition-section-photo-text {
+        width: 325px;
+        font-size: 20px;
+        left: 20px;
+    }
+
+    .addition-section-photo:nth-child(3) .addition-section-photo-text {
+        width: 375px;
+    }
+
+    .how-to-help {
+        padding-top: 100px;
+    }
+
+    .help-section-template .section-title {
+        line-height: 140%;
+    }
+
+    .help-section-template .section-title {
+        margin-right: unset;
+        width: 380px;
+    }
+
+    .help-section-template .section-info .section-text .section-text-info {
+        width: 440px;
+    }
+
+    .help-section-template {
+        justify-content: space-between;
+    }
+
+    .foundation-logo {
+        margin-bottom: 25px;
+    }
+
+    .foundation-name {
+        font-size: 20px;
+        margin-bottom: 50px;
+    }
+
+    .our-team {
+        padding-top: 100px;
+    }
+
+    .team-template .section-title{
+        text-align: center;
+        margin-bottom: unset;
+    }
+
+    .team-members {
+        margin-top: 50px;
+    }
+
+    .team-member {
+        margin-right: 30px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .collection-section-item {
+        margin-right: unset;
+    }
+
+    .collection-item {
+        height: 260px;
+    }
+
+    .step {
+        margin-right: unset;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 25px;
+    }
+
+    .steps-description-text {
+        width: 380px;
+    }
+
+    .addition-section-photo-text {
+        width: 280px;
+    }
+
+    .addition-section-photo:nth-child(3) .addition-section-photo-text {
+        width: 300px;
+    }
+
+    .addition-section-photo-text {
+        bottom: 15px;
+    }
+
+    .help-section-template {
+        flex-direction: column;
+    }
+
+    .section-info {
+        justify-content: flex-start;
+    }
+
+    .help-section-template .section-title {
+        width: 100%;
+    }
+
+    .team-section-text-title {
+        text-align: center;
+        width: 575px;
+    }
+
+    .team-section-text {
+        width: 100%;
+        padding-left: unset;
+        display: flex;
+        align-items: center;
+    }
+}
+ 
+@media (max-width: 767.98px) {
+    .main-title {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .title {
+        font-size: 30px;
+        width: 535px;
+    }
+
+    .subtitle {
+        font-size: 18px;
+        width: 390px;
+    }
+
+    .main-hashtags {
+        flex-wrap: wrap;
+    }
+
+    .hashtag {
+        font-size: 15px;
+    }
+
+    .about-us {
+        padding-top: 80px;
+    }
+
+    .lower-part-title {
+        font-size: 24px;
+    }
+
+    .lower-part-text {
+        font-size: 18px;
+        width: 100%;
+    }
+
+    .our-mission {
+        margin-top: 70px;
+    }
+
+    .our-collection {
+        padding-top: 80px;
+    }
+
+    .section-title {
+        font-size: 24px;
+    }
+
+    .section-text-info {
+        width: 100%;
+        font-size: 18px;
+    }
+
+    .collection-section-item {
+        margin-bottom: 30px;
+        width: 235px;
+    }
+
+    .image-part {
+        height: 200px;
+    }
+
+    .collection-item {
+        height: 245px;
+    }
+
+    .collection-name-part {
+        height: 45px;
+    }
+
+    .collection-name-title {
+        font-size: 18px;
+    }
+
+    .how-to-buy {
+        padding-top: 80px;
+    }
+
+    .step {
+        width: 100%;
+        height: 220px;
+    }
+
+    .steps-description {
+        flex-direction: column;
+        align-items: center;
+        margin-top: unset;
+    }
+    
+    .steps-description-text {
+        width: 100%;
+        text-align: center;
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+
+    .in-addition {
+        padding-top: 80px;
+    }
+
+    .addition-list-number {
+        font-size: 28px;
+    }
+
+    .addition-list-text {
+        font-size: 16px;
+    }
+
+    .addition-section-photos {
+        margin-top: unset;
+    }
+
+    .addition-section-photo {
+        width: 100%;
+    }
+
+    .addition-section-photo-text {
+        width: 80%;
+    }
+
+    .addition-section-photo:nth-child(3) .addition-section-photo-text {
+        width: 90%;
+    }
+
+    .how-to-help {
+        padding-top: 80px;
+    }
+
+    .help-section-template .section-info .section-text .section-text-info {
+        width: 100%;
+        text-align: center;
+    }
+
+    .help-section-template .section-title {
+        text-align: center;
+    }
+
+    .foundations-block {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .foundation {
+        width: 100%;
+    }
+
+    .foundation-name {
+        margin-bottom: 30px;
+    }
+
+    .foundation .section-button {
+        margin-bottom: 50px;
+    }
+
+    .our-team {
+        padding-top: 40px;
+    }
+
+    .team-member {
+        width: 48%;
+        margin-right: unset;
+        margin-bottom: 30px;
+    }
+
+    .team-member-photo {
+        height: 240px;
+    }
+
+    .member-avatar {
+        width: 100%;
+    }
+
+    .member-name {
+        font-size: 18px;
+    }
+
+    .team-section-text-title {
+        width: 100%;
+    }
+
+    .team-section-text-title {
+        font-size: 26px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .copyright {
+        margin-top: 60px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .navbar-logo {
+        width: 30%;
+    }
+
+    .title {
+        font-size: 26px;
+        width: 100%;
+    }
+
+    .subtitle {
+        width: 300px;
+        margin-bottom: 100px;
+    }
+
+    .collection-section-item {
+        width: 340px;
+    }
+
+    .collection-item {
+        height: 355px;
+    }
+
+    .image-part {
+        height: 300px;
+    }
+
+    .collection-name-part {
+        height: 55px;
+    }
+
+    .see-full-link {
+        font-size: 18px;
+    }
+
+    .see-full-link svg {
+        width: 70px;
+    }
+
+    .foundation-logo {
+        width: 60%;
+        height: auto;
+    }
+
+    .team-members {
+        justify-content: center;
+    }
+
+    .team-member {
+        width: 270px;
+    }
+
+    .team-member-photo {
+        width: 270px;
+        height: unset;
+    }
+
+    .footer-parts {
+        flex-direction: column;
+    }
+
+    .right-footer {
+        margin-top: 50px;
+    }
+
+    .copyright {
+        font-size: 14px;
+        font-weight: 400;
+        width: 60%;
+        margin: 60px auto;
+        margin-bottom: unset;
+    }
+
+    .hashtag:nth-child(3),
+    .hashtag:nth-child(5) {
+        display: none;
+    }
+
+    .collection-items {
+        justify-content: center;
+    }
+
+    .step-description {
+        font-size: 18px;
+    }
+
+    .bg-number img {
+        height: 190px;
+    }
+}
